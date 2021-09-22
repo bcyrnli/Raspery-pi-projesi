@@ -1,1 +1,0 @@
-# Raspery-pi-projesi
