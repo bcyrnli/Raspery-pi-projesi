@@ -1,0 +1,2 @@
+Proje kodlarında bilgisayara göre konum ayarlanırsa proje sorunsuz çalışacaktır.
+Virüs tarama ve zipleme kodları var fakat raspery pi donanımını çok zorlayacağı için bağlantıları yapmadık.
